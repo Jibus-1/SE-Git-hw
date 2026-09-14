@@ -1,1 +1,1 @@
-print("Hello from CONFLICT branch")
+print("Hello from BOTH branches resolved")
