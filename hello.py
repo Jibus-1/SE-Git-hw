@@ -1,1 +1,1 @@
-print("Hello from MAIN branch — version 2")
+print("Hello from BOTH branches resolved")
